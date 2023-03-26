@@ -1,0 +1,16 @@
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.exe
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.deps.json
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.runtimeconfig.json
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.runtimeconfig.dev.json
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.dll
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\ref\FinalyTask.dll
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\bin\Debug\net5.0\FinalyTask.pdb
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.csprojAssemblyReference.cache
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.AssemblyInfoInputs.cache
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.AssemblyInfo.cs
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.csproj.CoreCompileInputs.cache
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.dll
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\ref\FinalyTask.dll
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.pdb
+C:\Users\79502\source\repos\FinalyTask\FinalyTask\obj\Debug\net5.0\FinalyTask.genruntimeconfig.cache
